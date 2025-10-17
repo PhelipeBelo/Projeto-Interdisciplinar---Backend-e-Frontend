@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nome": "Máscara de Procedimento McKesson ASTM Nível 1 Earloops",
+    "marca": "McKesson",
+    "fabricante": "Marca McKesson",
+    "categorias": "Vestuário",
+    "sub-categorias": "máscaras",
+    "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1196784_ppkgleft.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Máscara de Procedimento McKesson ASTM Nível 3 Earloops",
+    "marca": "McKesson",
+    "fabricante": "Marca McKesson",
+    "categorias": "Vestuário",
+    "sub-categorias": "máscaras",
+    "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1106632_ppkgleft.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Macacão Dukal X-Large Branco Descartável Não Estéril",
+    "marca": "Dukal",
+    "fabricante": "Dukal",
+    "categorias": "Vestuário",
+    "sub-categorias": "macacões",
+    "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/544658_front.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Macacão de Proteção Extra Grande Branco Descartável Não Estéril",
+    "marca": "Proteção extra",
+    "fabricante": "O&M Halyard Inc",
+    "categorias": "Vestuário",
+    "sub-categorias": "macacões",
+    "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/165764.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Jaleco McKesson Azul Grande Comprimento do Joelho Descartável",
+    "marca": "McKesson",
+    "fabricante": "Marca McKesson",
+    "categorias": "Vestuário",
+    "sub-categorias": "Jaleco",
+    "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1207904_left.jpg"
+  }
+]
