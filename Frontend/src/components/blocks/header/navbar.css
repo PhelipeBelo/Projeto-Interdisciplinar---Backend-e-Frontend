@@ -1,0 +1,36 @@
+
+.nb{
+    background-color: #276678 !important;
+}
+.ce{
+    color: #F6F5F5 !important;
+}
+
+.btn-primary-dark {
+    background-color: #F6F5F5; 
+    border-color: #F6F5F5;
+    color: #276678; 
+    transition: all 0.3s ease;
+}
+
+.btn-primary-dark:hover {
+    background-color: #1e5261; 
+    border-color: #1e5261;
+    color: #F6F5F5; 
+}
+
+.navbar-nav .nav-link {
+    padding-top: 0.5rem !important; 
+    padding-bottom: 0.5rem !important;
+}
+
+.navbar-nav .nav-item .btn {
+    padding: 0.5rem 1rem;
+    line-height: 1.5;
+}
+
+@media (max-width: 991.98px) {
+    .navbar-nav .nav-item {
+        margin-bottom: 0.5rem;
+    }
+}

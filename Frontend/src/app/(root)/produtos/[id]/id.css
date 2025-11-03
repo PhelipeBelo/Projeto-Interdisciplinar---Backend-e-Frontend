@@ -1,0 +1,138 @@
+/*
+    ======================================
+    Variáveis de Cores (Alinhado ao Card.css)
+    ======================================
+*/
+:root {
+    /* Cores principais do seu modelo: #276678 e #1687A7 */
+    --nexus-dark: #276678; /* Azul Escuro/Aço */
+    --nexus-accent: #1687A7; /* Azul Ciano/Claro */
+    --nexus-gradient-start: #276678;
+    --nexus-gradient-end: #1687A7;
+    --text-muted-color: #6c757d;
+    --warning: #ffc107;
+}
+
+/* Classes utilitárias com nomes únicos */
+.text-nexus-dark {
+    color: var(--nexus-dark) !important;
+}
+
+.text-nexus-accent {
+    color: var(--nexus-accent) !important;
+}
+
+.text-warning {
+    color: var(--warning) !important;
+}
+
+.fw-bold {
+    font-weight: 700 !important;
+}
+
+
+/*
+    ======================================
+    Estilos da Imagem (Mais Impacto)
+    ======================================
+*/
+
+.product-detail-image-wrapper {
+    /* Estilo do card: arredondado e com sombra */
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 0.75rem;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    
+    /* Garante que a imagem se encaixe e tenha altura */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 550px; 
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+}
+
+.product-detail-image-wrapper:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.product-detail-image-wrapper img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+
+/*
+    ======================================
+    Estilos de Destaque e Tipografia
+    ======================================
+*/
+
+/* Título Principal */
+.container h1 {
+    color: var(--nexus-dark);
+}
+
+/* Destaque do Preço */
+.product-price-highlight {
+    font-size: 2.5rem; 
+    font-weight: 900; 
+    color: var(--nexus-accent); /* Cor de destaque */
+    line-height: 1;
+}
+
+/* Seletor de Quantidade */
+.select-custom-style {
+    border-color: var(--nexus-dark);
+    color: var(--nexus-dark);
+    font-weight: 500;
+}
+
+/* Informações Adicionais */
+.info-block-nexus span {
+    color: var(--nexus-dark);
+    font-weight: 500;
+}
+
+
+/*
+    ======================================
+    Estilos dos Botões (Com Gradiente)
+    ======================================
+*/
+
+/* Botão Principal (Adicionar ao Carrinho) - Gradiente */
+.btn-nexus-primary {
+    background: linear-gradient(45deg, var(--nexus-gradient-start), var(--nexus-gradient-end));
+    border: none;
+    color: white;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    border-radius: 50px; /* Borda arredondada, como no seu modelo */
+    box-shadow: 0 5px 15px rgba(39, 102, 120, 0.4); /* Sombra mais visível */
+}
+
+.btn-nexus-primary:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+    /* Ajustando o box-shadow para refletir o hover do seu modelo (mas adaptado ao azul) */
+    box-shadow: 0 8px 20px rgba(39, 102, 120, 0.6);
+}
+
+/* Botão Secundário (Lista de Desejos) - Contorno */
+.btn-nexus-secondary {
+    /* Cores do hover do seu modelo */
+    color: var(--nexus-dark);
+    background-color: #D3E0EA; 
+    border: 2px solid var(--nexus-dark);
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border-radius: 50px;
+}
+
+.btn-nexus-secondary:hover {
+    color: #fff; /* Fica branco no hover */
+    background-color: var(--nexus-dark);
+}

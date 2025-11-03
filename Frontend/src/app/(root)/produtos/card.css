@@ -1,0 +1,79 @@
+/* Estilos dos Cards de Produto */
+.product-card {
+  transition: all 0.3s ease;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+.product-image {
+  transition: all 0.5s ease;
+  height: 300px;
+  object-fit: cover; 
+}
+
+.product-card:hover .product-image {
+  transform: scale(1.05);
+}
+
+.badge-custom {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #276678; 
+}
+
+.btn-custom {
+  background: linear-gradient(45deg, #276678, #1687A7); 
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-custom:hover {
+  transform: translateX(5px);
+  box-shadow: -5px 5px 15px rgba(39, 102, 120, 0.4); 
+}
+
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url("/img/img1.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh; 
+  font-weight: 700;
+}
+
+
+.text-white-75 {
+  color: #F6F5F5; 
+}
+
+
+.btn {
+  color: #F6F5F5 ;
+  background-color: #276678;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+  border-radius: 5px; 
+}
+
+.btn:hover {
+  color: #276678; 
+  background-color: #D3E0EA; 
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4); 
+}
+
+/* NOVO: Classe para o Título da Seção de Produtos */
+.text-dark-blue {
+  color: #276678;
+}
