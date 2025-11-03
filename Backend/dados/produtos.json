@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "nome": "Máscara de Procedimento McKesson ASTM Nível 1 Earloops",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Vestuário",
+        "sub-categorias": "máscaras",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1196784_ppkgleft.jpg",
+        "preco": "R$ 34,90",
+        "des": "Máscara de procedimento descartável da McKesson, classificada como Nível 1 de Barreira (ASTM F2100-11). Ideal para ambientes de baixo risco e cuidados gerais de pacientes. Sua construção em tecido não tecido de três camadas (spunbond/meltblown/spunbond) garante conforto e respirabilidade. Apresenta alta eficiência de filtração, com BFE e PFE ≥95% e resistência a fluidos de 80 mm Hg. Possui alças elásticas (earloops) e uma barra nasal adaptável para um ajuste facial seguro. Produto não estéril e livre de látex."
+    },
+    {
+        "id": 2,
+        "nome": "Máscara de Procedimento McKesson ASTM Nível 3 Earloops",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Vestuário",
+        "sub-categorias": "máscaras",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1106632_ppkgleft.jpg",
+        "preco": "R$ 49,90",
+        "des": "Máscara de procedimento McKesson, Nível 3 de Barreira ASTM (F2100-11). Indicada para procedimentos com alto risco de exposição a fluidos e aerossóis. Oferece Eficiência de Filtração (BFE/PFE) ≥98% e alta resistência a fluidos (160 mm Hg). Construção em tripla camada, com alças elásticas e barra nasal ajustável. Máxima proteção e conforto. Não estéril e latex-free."
+    },
+    {
+        "id": 3,
+        "nome": "Macacão Dukal X-Large Branco Descartável Não Estéril",
+        "marca": "Dukal",
+        "fabricante": "Dukal",
+        "categorias": "Vestuário",
+        "sub-categorias": "macacões",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/544658_front.jpg",
+        "preco": "R$ 19,90",
+        "des": "Macacão de proteção individual (EPI) Dukal, tamanho X-Large. Ideal para proteção contra sujeira, poeiras leves e respingos não perigosos. Confeccionado em tecido não tecido (TNT) de polipropileno/material SMS (informação técnica pode variar), oferecendo conforto e respirabilidade. Possui capuz, fechamento em zíper e elásticos nos punhos e tornozelos para vedação. Produto descartável e não estéril."
+    },
+    {
+        "id": 4,
+        "nome": "Jaleco McKesson Azul Grande Comprimento do Joelho Descartável",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Vestuário",
+        "sub-categorias": "Jaleco",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1207904_left.jpg",
+        "preco": "R$ 54,90",
+        "des": "Jaleco/Avental de isolamento McKesson, descartável, Tamanho Grande (G), cor azul. Apresenta comprimento do joelho (ou abaixo), cobrindo bem o tronco e membros. Confeccionado em Tecido Não Tecido (TNT) de Polipropileno, projetado para proteção básica contra poeiras e respingos leves. Possui mangas longas, punhos elásticos ou de malha e fechamento frontal (geralmente por botão de pressão ou amarração). Não estéril. Ideal para uso ambulatorial, laboratorial e isolamento."
+    },
+    {
+        "id": 5,
+        "nome": "Estetoscópio de Exame Geral McKesson Preto 1-Tubo 21 Polegadas Tubo Único Lado Ajustável",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Instrumentos",
+        "sub-categorias": "Estetoscópios binaurais",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/1007588_left.jpg",
+        "preco": "R$ 199,90",
+        "des": "O Estetoscópio de Exame Geral McKesson é uma ferramenta diagnóstica econômica e confiável desenvolvida para a ausculta de sons cardíacos, pulmonares e intestinais de rotina. Seu design leve e aprimoramentos acústicos (como o diafragma proprietário e o aro não-gelado) o tornam adequado para estudantes, profissionais de triagem e para avaliações rápidas onde a alta fidelidade acústica dos estetoscópios de ponta não é um requisito primário."
+    },
+    {
+        "id": 6,
+        "nome": "Estetoscópio de Exame Geral McKesson Royal Blue 1-Tubo 21 Polegadas Tubo Único Lado Ajustável",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Instrumentos",
+        "sub-categorias": "Estetoscópios binaurais",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/363738_ppkgleft.jpg",
+        "preco": "R$ 199,90",
+        "des": "O Estetoscópio de Exame Geral McKesson é uma ferramenta diagnóstica econômica e funcional para a ausculta de rotina. Sua cor Azul Royal oferece uma opção de personalização em relação ao modelo preto padrão. É indicado para estudantes, profissionais de triagem e para avaliações rápidas que não exijam a performance acústica de estetoscópios de alta gama."
+    },
+    {
+        "id": 7,
+        "nome": "Manguito de pressão arterial reutilizável e bulbo McKesson LUMEON™ 40 a 66 cm Perna Nylon Manguito Manguito de coxa",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Instrumentos",
+        "sub-categorias": "Pressão arterial",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/850936_front_.jpg",
+        "preco": "R$ 249,90",
+        "des": "Este manguito é um acessório de reposição ou componente para aparelhos de pressão. É ideal para uso clínico frequente em hospitais, consultórios e também para monitoramento doméstico com confiabilidade a longo prazo, devido à sua construção resistente e reutilizável. O guia de marcação auxilia na colocação correta, um fator crucial para a precisão da medição da pressão arterial."
+    },
+    {
+        "id": 8,
+        "nome": "Manguito de pressão arterial reutilizável e bulbo McKesson LUMEON™ 23 a 40 cm Braço Nylon Cuff Adulto",
+        "marca": "McKesson",
+        "fabricante": "Marca McKesson",
+        "categorias": "Pressão arterial",
+        "sub-categorias": "Estetoscópios esofágicos",
+        "img": "https://imgcdn.mckesson.com/CumulusWeb/Images/Original_Image/803206_front_.jpg",
+        "preco": "R$ 249,90",
+        "des": "Este kit é ideal como peça de reposição ou para montar um aparelho de pressão arterial completo. É muito utilizado em hospitais, clínicas e por estudantes pela sua durabilidade e recursos que auxiliam a garantir a técnica correta de medição."
+    }
+]
